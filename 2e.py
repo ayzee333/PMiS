@@ -7,7 +7,7 @@ sns.set()
 t = np.linspace(0, 50, 1000)
 x = [2, 2]
 x_2 = [-2, -2]
-delta = 0.7
+delta = 0.15
 k = 7
 m = 12
 
